@@ -20,7 +20,7 @@
   <img src="https://github.com/user-attachments/assets/41dd9254-df86-4362-a17f-a19f10203185" width="220" alt="Crab asset">
 </p>
 
-🦀 🦀 🦀 on a path of convergence evolution to crab 🦀 🦀 🦀
+🦀 🦀 🦀🦀 🦀 🦀🦀 🦀 🦀
 <!--
 **gunasuryo/gunasuryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
