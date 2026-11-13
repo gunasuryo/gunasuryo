@@ -16,7 +16,7 @@
 
 ## 🦀 🦀 🦀 on a path of convergence evolution to crab 🦀 🦀 🦀
 
-<img width="2000" height="2000" alt="jimcrabcompressed" src="https://github.com/user-attachments/assets/7468ff3a-b1b0-4567-9dd0-fd6b49ed73f3" />
+<img width="2000" height="3000" alt="jimcrabcomprsd" src="https://github.com/user-attachments/assets/f87df4b3-14c6-418b-abb3-5c362590863f" />
 
 <!--
 **gunasuryo/gunasuryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
