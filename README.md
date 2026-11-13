@@ -5,7 +5,7 @@
 * **[Self-Checked-Task-Organizer](https://github.com/gunasuryo/Self-Checked-Task-Organizer)** (`C`) — Self-improvement app with tasks, deadlines, and a point-reward system.
 * **[ftui3dgs](https://github.com/gunasuryo/ftui3dgs)** (`JavaScript`) — FTUI visualized through 3D Gaussian Splatting.
 
-####(Soon™) : 
+#### (Soon™) : 
 * bunch of rust learning projects
 
 #### Vibe coded projects i ''directed'' that im ashamed of (at least the asset is hand drawn (digitally)):
