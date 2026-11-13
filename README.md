@@ -17,7 +17,7 @@
 ## 🦀 🦀 🦀 on a path of convergence evolution to crab 🦀 🦀 🦀
 
 <p align="center">
-  <img src="[YOUR_IMAGE_LINK_HERE](https://github.com/user-attachments/assets/41dd9254-df86-4362-a17f-a19f10203185)" width="220" alt="Crab asset">
+  <img src="https://github.com/user-attachments/assets/41dd9254-df86-4362-a17f-a19f10203185" width="220" alt="Crab asset">
 </p>
 
 🦀 🦀 🦀 on a path of convergence evolution to crab 🦀 🦀 🦀
