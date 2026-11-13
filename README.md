@@ -1,21 +1,20 @@
 ## Welcome traveler
 
-Hand coded projects i programmed that im unashamed of:
-C:
-https://github.com/gunasuryo/PTK-of-the-dead
-https://github.com/gunasuryo/Self-Checked-Task-Organizer
-JS:
-https://github.com/gunasuryo/ftui3dgs
+#### Hand coded projects i programmed that im unashamed of:
+* **[PTK-of-the-dead](https://github.com/gunasuryo/PTK-of-the-dead)** (`C`) — Zombie Text Survival Game for a final class project.
+* **[Self-Checked-Task-Organizer](https://github.com/gunasuryo/Self-Checked-Task-Organizer)** (`C`) — Self-improvement app with tasks, deadlines, and a point-reward system.
+* **[ftui3dgs](https://github.com/gunasuryo/ftui3dgs)** (`JavaScript`) — FTUI visualized through 3D Gaussian Splatting.
 
-(Soon TM) : bunch of rust learning projects
+####(Soon™) : 
+* bunch of rust learning projects
 
-Vibe coded projects i ''directed'' that im ashamed of:
-GDScript:
-https://github.com/gunasuryo/remi-showdown
+#### Vibe coded projects i ''directed'' that im ashamed of (at least the asset is hand drawn (digitally)):
+* **[remi-showdown](https://github.com/gunasuryo/remi-showdown)** (`GDScript`) — Simple game of playing card showdown with rallies and tricks.
 
-unstarted projects that is now just a pebble of history (i will rewrite it in rust:
-https://github.com/gunasuryo/Vending-Machine-Simulator
+#### unstarted projects that is now just a pebble of history (i will rewrite it in rust eventually):
+* https://github.com/gunasuryo/Vending-Machine-Simulator
 
+## 🦀 🦀 🦀 on a path of convergence evolution to crab 🦀 🦀 🦀
 <!--
 **gunasuryo/gunasuryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
