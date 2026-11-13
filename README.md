@@ -15,6 +15,9 @@
 * https://github.com/gunasuryo/Vending-Machine-Simulator
 
 ## 🦀 🦀 🦀 on a path of convergence evolution to crab 🦀 🦀 🦀
+
+<img width="2000" height="2000" alt="jimcrabcompressed" src="https://github.com/user-attachments/assets/7468ff3a-b1b0-4567-9dd0-fd6b49ed73f3" />
+
 <!--
 **gunasuryo/gunasuryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
